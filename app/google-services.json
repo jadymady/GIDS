@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "609427900182",
+    "firebase_url": "https://jady-11ae6.firebaseio.com",
+    "project_id": "jady-11ae6",
+    "storage_bucket": "jady-11ae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609427900182:android:e51ec4f5b780edbf",
+        "android_client_info": {
+          "package_name": "trainedge.jady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609427900182-45cu7r1gkf6fbk70atvkci93vpk1g488.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trainedge.jady",
+            "certificate_hash": "a43cf7fa1ce1834d5e7e0c1fded6e29b8d0c52a1"
+          }
+        },
+        {
+          "client_id": "609427900182-1nqt6cbrb697sem7v12g1unj93dcfrgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyActuDJGs-d3PQuEjTfjL7LrFKlnbXMT8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609427900182-1nqt6cbrb697sem7v12g1unj93dcfrgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609427900182:android:178ad79ea9c88d4c",
+        "android_client_info": {
+          "package_name": "trainedge.mady"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609427900182-cn8v7of9vl8ketimumcg2lna4utueaqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trainedge.mady",
+            "certificate_hash": "a43cf7fa1ce1834d5e7e0c1fded6e29b8d0c52a1"
+          }
+        },
+        {
+          "client_id": "609427900182-1nqt6cbrb697sem7v12g1unj93dcfrgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyActuDJGs-d3PQuEjTfjL7LrFKlnbXMT8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609427900182-1nqt6cbrb697sem7v12g1unj93dcfrgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609427900182:android:b916f0fc53df41a2",
+        "android_client_info": {
+          "package_name": "trainedge.jamal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609427900182-92ouch36su7sbbfp01qi38p56gf8mgv4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trainedge.jamal",
+            "certificate_hash": "d1327d7ca055aa2a61dc804a6299d885146513e4"
+          }
+        },
+        {
+          "client_id": "609427900182-c7iessj5305sqv6tsos6ok7i3c68eii5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trainedge.jamal",
+            "certificate_hash": "a43cf7fa1ce1834d5e7e0c1fded6e29b8d0c52a1"
+          }
+        },
+        {
+          "client_id": "609427900182-1nqt6cbrb697sem7v12g1unj93dcfrgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyActuDJGs-d3PQuEjTfjL7LrFKlnbXMT8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609427900182-1nqt6cbrb697sem7v12g1unj93dcfrgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
