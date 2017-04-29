@@ -2,292 +2,364 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\de8cf73aff6e49d52c3c5808600c65634927900c\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_1e7f701bb8c48651dce21176023f860ddf555709.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\30730511cd3ea7d20fa3c027243b624b605452ee\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_48bab684fa99cd4a5ed8ee52c0f328b07044424a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_ae9e42502e26d5166d7b7cce8b04945d8f7fc26b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\fc8a16bd03c357ab952abb7649eaa4c66391cf42\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_5d4a04622c32a8463488ecf2d77e30ba5c454499.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\120587107ae9e0ff5cfceeeba30ada7be1219d2f\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_e47c3bb3568ea1f74381863adec8ed7fec9e604d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MADY\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_25a35b1102a5155c70f475fea3876e4c1361a212.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\577784e8db7a473f0861a6ca65a723ed9656e4b0\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8a372c4191f80489770a231f7be4820b204b886a">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_0e9a0d72169b8ef0b03741f8d3efcf27530209ea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\787ba5eb8c60ac9ae9588f274160b82c6f585a11\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b831d3902674d096189451d46fce219e2c2904b7">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_1b5bae677409aaf93fa3354ed634b6b3a48e60a4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\f11815a4802d483180a0bc3f820777b2548cc9c0\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_7f252f0ccbd4c195fbdf18daefff2b2cb5d940da.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\f5b91f89c02f9f8052b1f5ccec91ce348c827ae3\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_84a55901370c7fffa748d1e59ff9d0275fa5eb31.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\Users\MADY\.android\build-cache\1baa8a2804a5431517737ee2da0b9ec7115f947b\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_0f8d38c83dc09720d15eaca76b43c302685be779.jar" />
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f8d38c83dc09720d15eaca76b43c302685be779\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\870ff99022c95b281ae17bf362790b8347da5d0e\output\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\b920470422f8cff281bc7f2f6ea3dfc1f891c645\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_933b9e20c14e797c749b25d2531ebfb57d51382d.jar" />
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a77bea7d0baead420a7632927fe5ce7122ce292\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\34e5ffcbf4c48f27648bf134cb8014984d520c42\output\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\e833cde7efe094a2905ca5b6dbbdff8b5a7c357c\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_186e67c15cc0cc886e18b299540b1b36a691c407.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e091b1952b2f8b9d4e97e5b43c27e861757d0f3\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\da6f2b48c4b2beb26ee4c4bcffb4ad0eedc55d8c\output\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\120587107ae9e0ff5cfceeeba30ada7be1219d2f\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_231b9b45c570e786f367125f72deae33ede2f4a6.jar" />
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e47c3bb3568ea1f74381863adec8ed7fec9e604d\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\de8cf73aff6e49d52c3c5808600c65634927900c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1e7f701bb8c48651dce21176023f860ddf555709\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\0527a5ccc590792ed1b61974bc49c327df21ebf2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a75e0e52823e88ba09ea5691c79bce885c993f2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\67bd83ecfdd0c864ff3daab775cd997c446c2b07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ebb68734704d90cec38b07a9feee8fc34ff3e7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\3f014add384bdb8d7b74783b5f5598d2c01ddd0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d3c64919116a6bd676d19dddf1058b0dd48e05f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\24887a9f357ccfcfb32a6af6f5635adf9508cddd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4044d2d94601f5695fcb968ce9b73d94cbba5020\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\MADY\.android\build-cache\a20676536c108b075ec7c46b60f51e408c9f6449\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_c5f8ba98fc04f9770f84791b14fe7bd12aec1962.jar" />
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5f8ba98fc04f9770f84791b14fe7bd12aec1962\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\d85bae185495266f83d930652da2ddba230f5df9\output\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\30730511cd3ea7d20fa3c027243b624b605452ee\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_066298b816e2d771ef0227fb68554e050bb484eb.jar" />
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48bab684fa99cd4a5ed8ee52c0f328b07044424a\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\d304df9a84acae1969cb15dff2b6c6aa55478861\output\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\a55b2d6bee0bb090fa7fd9fd0e01e07a7948a7c0\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="cb2ef781533c3f11c4e80341cbaebad275c66586">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_9d76c0d3c09844bb14ec3dd7ddae6825c6de53ca.jar" />
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3af5dcd7288ce2c4b76fc2f98b2f0fdcd5187c7d\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\a9b1652f08ff109d8749b6d307e720ce9a592ae8\output\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\3b4eb0bb69d949573f153113380610469768e4f5\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_6a4aacc8f0602f8de0b0b630808a4da1a3d9c77a.jar" />
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a85239efa7b1aad6f977418e8edbcb41be284811\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\5f1bd4e3f89fb05128015679789ff41e8f1aacff\output\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\MADY\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_4c4c0548792bd13f800c85004923c1112a3109a1.jar" />
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_dd480897b63a2b84798c8f4950cd748185e80218\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\d40622cb88253b701293430d4aa270975607a01b\output\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\5b92cbf7f7f1e167124817e6c2b923a6b46aaab6\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_e8b53dbc8c4f78fe1b7de4310aa0eb4f4d0fbb9c.jar" />
+        sha1="4c1fb0a62675bdb3244ca33ef0c5b5b99c781056">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_625c245d4fb5bfd85aeb29398b4cc8893d5de2b9\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\63c614f602b7f9ece0ed30c4b3298c35497f8e2e\output\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\d20e39cf506048b88abb64e02f1d7031af1302a5\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_25ab9ca42fc4bcc37680526ffdd4330e586be63f.jar" />
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a5700e1b5f87a7bf6dc51371b7050088fa828797\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\f5b91f89c02f9f8052b1f5ccec91ce348c827ae3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84a55901370c7fffa748d1e59ff9d0275fa5eb31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\39ce1995f49e3b320204b2517fb0d5ee130ff1b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b8a835b567e9b90138466b398919d761319fbd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\6f78981a0843bd6e9834394b036096986fd690bc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e973d634388ab0b287a17fc56ea0794bc97d706\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\c432b918c532f8ae1bbf803feb801cddd5f10144\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b43f6c996c3761bf9f32f2ce311bd1f4aa7d032">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_231e7bef743ac8938645729fc81a309880701076\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\bc936d5261a61fc477874628fb4418c3513f14c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0c32d3330e57a8479dc743d6414e5312b592ac3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\817ca570b0df1e0aeb02002dc3214bd9e5e1cf58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4c156d169ff32d83a1967715428374541144d8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\MADY\.android\build-cache\afd086ad7713f6e62c8e66d50a2cd4e2f4bc6880\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="94fca868854457ede6df15c902938468c71d579e">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_42c9cb1db54d13a8583d266efdcac614806b55ea.jar" />
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42c9cb1db54d13a8583d266efdcac614806b55ea\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\Users\MADY\.android\build-cache\2de965ea2af712ff1bfcf039dc18dc26b72bc745\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_5cbf7fccdb263e2c308f4c12697e9ffc47d3f05c.jar" />
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5cbf7fccdb263e2c308f4c12697e9ffc47d3f05c\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\1c6933919f9ce6ae4e69af39c05620259af89a56\output\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\787ba5eb8c60ac9ae9588f274160b82c6f585a11\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_f9244de3f28fd097a32da5dec75d2badf7836191.jar" />
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b5bae677409aaf93fa3354ed634b6b3a48e60a4\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\47595f1ab1792165509b93b58446b338debeb72f\output\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\MADY\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_a3480413c667e98eeeac1cb5bd9d817f9c81030c.jar" />
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.3.2_8576b13ee136d5b4c2967502218f5a2e126b4c32\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\a7c475f05020142b010e86f046a94e5b49cdc0f6\output\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\MADY\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_6ea42ae26c580cd98a47ea029d0b78f08f088115.jar" />
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.3.0_6b75f1de0ee8e1535c4e585f41d4d5526f055fce\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_cffa07e9441aca372177e6d2394636c1e7fe4fc7.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\Users\MADY\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_fc4b3ddfeb345256b6d0080eab854dd20af2fcaf.jar" />
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_fc4b3ddfeb345256b6d0080eab854dd20af2fcaf\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\6a7428648460a376a56587272ab7b2d5dba407aa\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="518768f3200963fbfec652f498da2c9d39245234">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_e9afeb189784c203428292ce8900f50d18890fee.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\392568eb51a53946f6655424420249f022c7fa28\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_84babab6fd6949c87b0a0f702dcf5be9c5219353.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MADY\.android\build-cache\f05bf586b50e7fd61517e68f836ff0b747654630\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_51cea89c76bced56067f265a960e127782cbbd86.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="C:\Users\MADY\.android\build-cache\204c093101ad031e28172f05f34453252f63fb70\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
-        <dex dex="C:\Users\MADY\AndroidStudioProjects\jamal\app\build\intermediates\pre-dexed\debug\classes_69fc5f3f47d3976b753f43de9c33af1bdc305b8f.jar" />
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_69fc5f3f47d3976b753f43de9c33af1bdc305b8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\aa6af910b1220778bdb82dbf3cbebdc5bfb66a72\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d94c39080a309d1887f50ef68cc96dfe4bc9d01">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b2fee3a9f1da89d9239cfc1d94cab3c6fa45eb32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\5f1bd4e3f89fb05128015679789ff41e8f1aacff\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4c4c0548792bd13f800c85004923c1112a3109a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\a7c475f05020142b010e86f046a94e5b49cdc0f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ea42ae26c580cd98a47ea029d0b78f08f088115\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\6a0f13a8ea9db9c49da280c51795b206519ac685\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95d2d6ef264e45e54384d61c80ac98a7afd99c2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_ae9e42502e26d5166d7b7cce8b04945d8f7fc26b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\9192f5885035e4e6c7c15f72c1092a7bf96e21e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2017143a663a1d852b4970e5388238d30f6679d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_cffa07e9441aca372177e6d2394636c1e7fe4fc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\bfc5658c31d6f45ee4b2c63f187b2c7f1587ca7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c20ac654c31b1c927a41bacb3f736a29d5f91863\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\37ae0f9970646f472d7b0605c205395348e20bd7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6073dc5717f389564f20651003f7efe4e9029fde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\e5a4bef66a50a7486e622625353b72a85919951c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1fbc54a2d8a979b349ddef196d2178c762a1537\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\392568eb51a53946f6655424420249f022c7fa28\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_84babab6fd6949c87b0a0f702dcf5be9c5219353\classes.dex" />
     </item>
 
 </items>

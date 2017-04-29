@@ -1,6 +1,8 @@
 package trainedge.jamal;
 
 import android.app.ProgressDialog;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.design.widget.FloatingActionButton;
@@ -151,6 +153,10 @@ public class ShowInfoActivity extends AppCompatActivity implements View.OnClickL
     }
 
     private void launchIntent(String url) {
-
+        Uri webpage = Uri.parse(url);
+        Intent intent = new Intent(Intent.ACTION_VIEW, webpage);
+        if (intent.resolveActivity(getPackageManager()) != null) {
+            startActivity(intent);
+        }
     }
 }
