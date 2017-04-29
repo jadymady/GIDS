@@ -4,17 +4,11 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.BaseTransientBottomBar;
-import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
-import android.support.v4.app.FragmentActivity;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.widget.Button;
-import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.facebook.AccessToken;
@@ -38,7 +32,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.GoogleAuthProvider;
 
-public class loginactivity extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener, View.OnClickListener {
+public class LoginActivity extends AppCompatActivity implements GoogleApiClient.OnConnectionFailedListener, View.OnClickListener {
     public static final int RC_SIGN_IN = 7867;
     public static final String TAG = "LoginActivity";
 
@@ -52,7 +46,7 @@ public class loginactivity extends AppCompatActivity implements GoogleApiClient.
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_loginactivity);
+        setContentView(R.layout.activity_login);
         mAuth = FirebaseAuth.getInstance();
 
         ivGoogleSignin = (Button) findViewById(R.id.ivGoogleSignin);
@@ -76,7 +70,7 @@ public class loginactivity extends AppCompatActivity implements GoogleApiClient.
                 if (user != null) {
                     // User is signed in
                     Log.d(TAG, "onAuthStateChanged:signed_in:" + user.getUid());
-                    Intent homeIntent = new Intent(loginactivity.this, HomeActivity.class);
+                    Intent homeIntent = new Intent(LoginActivity.this, HomeActivity.class);
                     startActivity(homeIntent);
                     finish();
                 } else {
@@ -130,7 +124,8 @@ public class loginactivity extends AppCompatActivity implements GoogleApiClient.
                 // Google Sign In was successful, authenticate with Firebase
                 GoogleSignInAccount account = result.getSignInAccount();
                 firebaseAuthWithGoogle(account);
-            } else {
+            } else
+                {
                 // Google Sign In failed, update UI appropriately
                 // ...
             }
@@ -168,7 +163,7 @@ public class loginactivity extends AppCompatActivity implements GoogleApiClient.
                         // signed in user can be handled in the listener.
                         if (!task.isSuccessful()) {
                             Log.w(TAG, "signInWithCredential", task.getException());
-                           Toast.makeText(loginactivity.this, "Authentication failed.",
+                           Toast.makeText(LoginActivity.this, "Authentication failed.",
                                     Toast.LENGTH_SHORT).show();
                         }
                         // ...
@@ -205,7 +200,7 @@ public class loginactivity extends AppCompatActivity implements GoogleApiClient.
                         // signed in user can be handled in the listener.
                         if (!task.isSuccessful()) {
                             Log.w(TAG, "signInWithCredential", task.getException());
-                            Toast.makeText(loginactivity.this, "Authentication failed.",
+                            Toast.makeText(LoginActivity.this, "Authentication failed.",
                                     Toast.LENGTH_SHORT).show();
                         }
 
