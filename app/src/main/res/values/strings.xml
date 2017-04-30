@@ -124,4 +124,5 @@
     <string name="formats">Formats</string>
 
     <bool name="cameraPreviewShouldFillView">true</bool>
+    <string name="title_activity_history">HistoryActivity</string>
 </resources>

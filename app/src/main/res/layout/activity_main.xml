@@ -9,33 +9,54 @@
 
     <ImageView
         android:id="@+id/ivlogo"
-        android:layout_width="159dp"
-        android:layout_height="143dp"
+        android:layout_width="148dp"
+        android:layout_height="116dp"
         app:srcCompat="@drawable/logo"
         tools:layout_constraintTop_creator="1"
         tools:layout_constraintRight_creator="1"
         app:layout_constraintRight_toRightOf="parent"
-        android:layout_marginTop="37dp"
+        android:layout_marginTop="16dp"
         tools:layout_constraintLeft_creator="1"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintHorizontal_bias="0.502"
         android:layout_marginBottom="8dp"
-        app:layout_constraintBottom_toTopOf="@+id/ivText" />
+        app:layout_constraintBottom_toTopOf="@+id/ivText"
+        app:layout_constraintVertical_bias="0.086" />
 
     <TextView
         android:id="@+id/ivText"
-        android:layout_width="93dp"
-        android:layout_height="46dp"
-        android:layout_marginBottom="271dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
+        android:layout_width="92dp"
+        android:layout_height="43dp"
+        android:fontFamily="sans-serif-smallcaps"
         android:text="GIDS"
-        android:textColor="@color/com_facebook_button_background_color_focused"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textColor="@color/accent"
         android:textSize="36sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.501"
+        android:textStyle="bold"
         app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent" />
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1"
+        android:layout_marginBottom="19dp"
+        app:layout_constraintBottom_toTopOf="@+id/tvtext" />
+
+    <TextView
+        android:id="@+id/tvtext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="452dp"
+        android:fontFamily="cursive"
+        android:text="Gether Information In Digital System"
+        android:textColor="@android:color/holo_red_dark"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.1"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintTop_creator="1" />
 
 </android.support.constraint.ConstraintLayout>

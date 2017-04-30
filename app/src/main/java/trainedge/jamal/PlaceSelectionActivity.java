@@ -282,21 +282,6 @@ public class PlaceSelectionActivity extends FragmentActivity implements OnMapRea
         //allow user to use map and select Location
         setMapInteraction();
     }
-
-    @Override
-    public void onResume() {
-        super.onResume();
-        if (mGoogleApiClient != null && mGoogleApiClient.isConnected()) {
-            mGoogleApiClient.connect();
-        }
-    }
-
-    @Override
-    protected void onPause() {
-        super.onPause();
-        stopLocationUpdates();
-    }
-
     @Override
     protected void onStart() {
         super.onStart();
@@ -346,4 +331,19 @@ public class PlaceSelectionActivity extends FragmentActivity implements OnMapRea
             }
         }
     }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        if (mGoogleApiClient != null && mGoogleApiClient.isConnected()) {
+            mGoogleApiClient.connect();
+        }
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        stopLocationUpdates();
+    }
+
 }

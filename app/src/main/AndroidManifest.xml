@@ -57,6 +57,7 @@
         <activity
             android:name=".ScanActivity"
             android:label="@string/app_name"
+            android:parentActivityName=".HomeActivity"
             android:theme="@style/AppOverlayTheme"
             android:uiOptions="splitActionBarWhenNarrow">
             <meta-data
@@ -82,7 +83,7 @@
 
         <activity
             android:name=".PlaceSelectionActivity"
-            android:label="@string/title_activity_place_selection"></activity>
+            android:label="@string/title_activity_place_selection" />
 
         <service
             android:name=".FetchAddressIntentService"
@@ -97,6 +98,11 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="trainedge.jamal.ScanActivity" />
         </activity>
+        <activity android:name=".AboutActivity" />
+        <activity
+            android:name=".HistoryActivity"
+            android:label="@string/title_activity_history"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

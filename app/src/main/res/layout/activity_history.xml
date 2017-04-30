@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="trainedge.jamal.HomeActivity">
+    tools:context="trainedge.jamal.HistoryActivity">
 
     <android.support.design.widget.AppBarLayout
         android:layout_width="match_parent"
@@ -20,18 +20,8 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <include layout="@layout/content_home" />
+    <include layout="@layout/content_history" />
 
-    <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fabScan"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom|center_horizontal"
-        android:layout_margin="16dp"
-        android:clickable="true"
-        app:backgroundTint="@color/cast_intro_overlay_button_background_color"
-        app:elevation="0dp"
-        app:fabSize="normal"
-        app:srcCompat="@drawable/ic_menu_camera" />
+
 
 </android.support.design.widget.CoordinatorLayout>

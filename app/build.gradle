@@ -45,8 +45,13 @@ dependencies {
     compile 'com.google.android.gms:play-services-places:10.2.0'
     compile 'com.android.support:multidex:1.0.1'
     compile 'me.dm7.barcodescanner:zxing:1.9.1'
-    testCompile 'junit:junit:4.12'
     compile 'com.squareup.picasso:picasso:2.3.2'
+    /*app invite dependency*/
+    compile 'com.google.android.gms:play-services-appinvite:10.2.0'
+
+    testCompile 'junit:junit:4.12'
 }
+
+
 
 apply plugin: 'com.google.gms.google-services'

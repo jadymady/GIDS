@@ -80,7 +80,6 @@
             style="@style/Widget.AppCompat.Button.Borderless.Colored"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@android:drawable/screen_background_light_transparent"
             android:text="VIEW more on wikipedia" />
 
         <Button
