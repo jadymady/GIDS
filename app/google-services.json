@@ -57,6 +57,50 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609427900182:android:652b1efba7105209",
+        "android_client_info": {
+          "package_name": "hasaninfo.hasan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609427900182-a5pv0ea7ul4dap0v0ncm02ininl2e1e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hasaninfo.hasan",
+            "certificate_hash": "25f3c08aa02eed1f1e9ac752b74c4e40510e6526"
+          }
+        },
+        {
+          "client_id": "609427900182-1nqt6cbrb697sem7v12g1unj93dcfrgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyActuDJGs-d3PQuEjTfjL7LrFKlnbXMT8o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609427900182-1nqt6cbrb697sem7v12g1unj93dcfrgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"

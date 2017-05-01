@@ -309,7 +309,7 @@ public class HomeActivity extends AppCompatActivity
                 startActivityForResult(intent, REQUEST_INVITE);
                 break;
             case R.id.nav_feedback:
-
+                startActivity(new Intent(this, FeedbackActivity.class));
                 break;
         }
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
