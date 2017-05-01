@@ -219,6 +219,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\MADY\.android\build-cache\383e8eccd79d1224aff81577752ec7897e6db82c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="E:\GIDS\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e578ae44720e5fc43a91eda0c9f7f95e7ee9dd20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\MADY\.android\build-cache\787ba5eb8c60ac9ae9588f274160b82c6f585a11\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
